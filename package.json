@@ -1,0 +1,19 @@
+{
+  "name": "sofia-enterprise",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "15.2.4",
+    "react": "^19",
+    "react-dom": "^19",
+    "lucide-react": "^0.454.0",
+    "recharts": "latest",
+    "tailwindcss": "^3.4.17",
+    "typescript": "^5"
+  }
+}
